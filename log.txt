@@ -1,0 +1,17 @@
+commit ada34c00b655cb00d0d41e5e638f380b4e1190ad
+Author: belgacembalti <belgacembalti81@gmail.com>
+Date:   Thu Mar 13 09:19:28 2025 +0000
+
+    Ajout de la fonction division()
+
+commit d7462aaf02be2c57b06332dcccde233235d34934
+Author: belgacembalti <belgacembalti81@gmail.com>
+Date:   Thu Mar 13 09:13:26 2025 +0000
+
+    ajout de fichier application.py
+
+commit 88b4d003673863368d95f2fca6ee4277cdedb315
+Author: belgacembalti <belgacembalti81@gmail.com>
+Date:   Thu Mar 13 09:03:17 2025 +0000
+
+    ajout de fichier application.py

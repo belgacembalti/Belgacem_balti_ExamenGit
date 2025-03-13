@@ -1,2 +1,1 @@
-print("Ajout du fichier application.py")
-print("Bienvenue dans mon projet Git !")
+def resultat(x): return" le resultat est :{x}!"

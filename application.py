@@ -1,2 +1,1 @@
-print("Ajout du fichier application.py")
-print("Bienvenue dans mon projet Git !")
+def division(a,b): return a/b if b!=0  else"erreur:division par zero"
